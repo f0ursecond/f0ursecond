@@ -15,11 +15,11 @@ I'm currently as a student who interesting for a Front-End Developer & Multi-Pla
 
 
 
-## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,dart)](https://skillicons.dev)
+
+## 🛠 Skills & Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,dart,git)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,nodejs,mysql,tailwind&theme=light)](https://skillicons.dev)
 
 
 
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,nodejs,git,mysql,tailwind&theme=light)](https://skillicons.dev)
