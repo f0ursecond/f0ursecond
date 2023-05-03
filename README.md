@@ -4,6 +4,7 @@
 
 ## 🚀 About Me
 I'm currently as a student who interesting for a Front-End Developer & Multi-Platform App Developer.Curently, I’m focused on Flutter / Mobile Developer & sometimes learning back-end technologies.
+📍 Semarang,Indonesia
 
 
 ## 🔗 Links
