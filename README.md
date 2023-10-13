@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm currently as a student who interesting for a Front-End Developer & Multi-Platform App Developer.Curently, I’m focused on Flutter / Mobile Developer & sometimes learning back-end technologies.
+I'm currently as a graduated student who interesting for a Mobile Developer.Curently,I’m focused on Flutter / Mobile Developer & sometimes learning back-end technologies.
 
 
 ## 📍 Semarang, Indonesia
@@ -18,9 +18,7 @@ I'm currently as a student who interesting for a Front-End Developer & Multi-Pla
 
 
 ## 📖 I'm currently learning
-[![My Skills](https://skillicons.dev/icons?i=js,dart,git)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,nodejs,mysql,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,git,flutter)](https://skillicons.dev)
 
 
 
