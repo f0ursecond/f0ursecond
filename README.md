@@ -10,10 +10,7 @@ I'm currently as a graduated student who interesting for a Mobile Developer.Cure
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://azulfanur.netlify.app/)
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azulfanur)
-
 
 
 
