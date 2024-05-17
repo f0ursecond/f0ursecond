@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm currently as a graduated student who interesting for a Mobile Developer.Curently,I’m focused on Flutter / Mobile Developer & sometimes learning back-end technologies.
+I'm currently as a graduated student who interesting for a Mobile Developer. Curently,I’m focused on Flutter & Swift & sometimes learning back-end technologies
 
 
 ## 📍 Semarang, Indonesia
